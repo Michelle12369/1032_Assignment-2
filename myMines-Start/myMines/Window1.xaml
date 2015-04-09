@@ -4,5 +4,6 @@
     Title="自製踩地雷" MinHeight="415" MinWidth="350" Height="415" Width="350" PreviewMouseDown="Window_PreviewMouseDown">
     <DockPanel>
         <UniformGrid Name="ugdBoard" Background="AliceBlue" />
+        <CheckBox Content="CheckBox" Height="384" VerticalAlignment="Top"/>
     </DockPanel>
 </Window>
